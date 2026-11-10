@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig>
+  <Tracking>
+    <ImageTarget name="marker_menu4_grafik" size="1.000000 1.000000" />
+    <ImageTarget name="marker_menu2_hplc" size="1.000000 1.000000" />
+    <ImageTarget name="marker_menu3_kolom" size="1.000000 1.000000" />
+    <ImageTarget name="GambarTarget1" size="10.000000 13.333333" />
+  </Tracking>
+</QCARConfig>

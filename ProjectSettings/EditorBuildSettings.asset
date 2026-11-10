@@ -1,0 +1,41 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/MainMenu.unity
+    guid: 9fc0d4010bbf28b4594072e72b8655ab
+  - enabled: 1
+    path: Assets/Scenes/Menu1.unity
+    guid: bd9203d3d45e0f44eb8da17b1ffdadf6
+  - enabled: 1
+    path: Assets/Scenes/MenuFaseGerak.unity
+    guid: f1ca4b006732b0048a770320fb2e4a52
+  - enabled: 1
+    path: Assets/Scenes/Menu2.unity
+    guid: ec4fca6d2276bdb469b9e62b478ede26
+  - enabled: 1
+    path: Assets/Scenes/Menu3.unity
+    guid: f859d6b6f0ec4604ca1112d276a5b66a
+  - enabled: 1
+    path: Assets/Scenes/Menu4.unity
+    guid: c4eae3bff2b456d4b8565126ed15b450
+  - enabled: 1
+    path: Assets/Scenes/Tentang.unity
+    guid: f731f4173f8cb314490a5aef9dd52187
+  - enabled: 1
+    path: Assets/Scenes/Informasi.unity
+    guid: f379316fe0eb02840b41be11e265046d
+  - enabled: 1
+    path: Assets/Scenes/MateriHPLC.unity
+    guid: a49d30f545524934d926ab5539021434
+  - enabled: 1
+    path: Assets/Scenes/Kuis.unity
+    guid: 5a8e489440a0c734eae4f3aa5d58b930
+  m_configObjects:
+    com.unity.adaptiveperformance.google.android.provider_settings: {fileID: 11400000, guid: a5787cf68477dd94c82ffc625b5dbc62, type: 2}
+    com.unity.adaptiveperformance.loader_settings: {fileID: 11400000, guid: db6d58eb18596704aa5d59a9ab0436bf, type: 2}
+    com.unity.adaptiveperformance.simulator.provider_settings: {fileID: 11400000, guid: 2a0697dea1c810043bece6ce686d8c56, type: 2}
